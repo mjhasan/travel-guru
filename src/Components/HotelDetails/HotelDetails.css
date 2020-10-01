@@ -1,0 +1,15 @@
+.app * {
+    padding:0px !important;
+    font-weight: normal!important;
+    color: white !important;
+}
+img{
+    width: 100%;
+    margin:0px 20px;
+}
+.destination-info{
+    border-right: 1px solid rgb(100, 93, 93);
+}
+#hotel-wrapper{
+    margin: 0px 30px;
+}

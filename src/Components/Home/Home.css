@@ -1,0 +1,48 @@
+.img{
+    width: 200px ;
+}
+.img:hover {
+    border: 3px solid orange;
+    border-radius: 15px;
+} 
+
+.wrapper{
+   margin: 20px !important;
+}
+.img-title{
+    position: relative;
+    top: -50px;
+    margin-left: 35px;
+    color: white;
+    text-align: center;
+    font-size: 1.4em;
+}
+body{
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../../img/Image/Rectangle\ 1.png);
+
+    
+}
+#destination-detail p{
+    color:white;
+    font-weight: 400;
+    font-size: 17px
+}
+#destination-detail h2{
+    font-weight: bold;
+}
+#destination-images button{
+    background-color: transparent !important;
+}
+
+input.form-control.pl-3 {
+    background: transparent;
+}
+
+.form-control {
+    color: #fff!important;
+    border: 1px solid #fff;
+}
+
+input::placeholder {
+    color: #ddd!important;
+  }
